@@ -1,0 +1,76 @@
+# data/notes.yaml
+semesters:
+
+  - name: "Semester 2"
+    year: "2025"
+    subjects: 3
+    icon: "🎓"
+    color: "#0070f3"
+    drive_link: "https://drive.google.com/drive/folders/1UKklGJ5DJ8PYgjz-kbI08-GOJehhMXZ3?usp=sharing"
+    subjects_list:
+      - name: "Mathematics-2"
+        url: "/semesters/sem3/#data-structures"
+        drive_url: "https://drive.google.com/drive/folders/1jybv0LZEzhWORCxT1k93oSabBiZKhriH?usp=drive_link"
+        icon: "🔗"
+      - name: "Engineering Chemistry"
+        url: "/semesters/sem3/#digital-electronics"
+        drive_url: "https://drive.google.com/drive/folders/1qRJH28eS8z_uzYNPCGLy0rmXabVdPk6R?usp=drive_link"
+        icon: "🔗"
+      - name: "Electronic principles and Devices"
+        url: "/semesters/sem3/#discrete-mathematics"
+        drive_url: "https://drive.google.com/drive/folders/1GJkwH6qVfBzNujcZKiIL-atVWQr0JjRG?usp=drive_link"
+        icon: "🔗"
+ 
+
+  - name: "Semester 3"
+    year: "2025"
+    subjects: 5
+    icon: "🎓"
+    color: "#0070f3"
+    drive_link: "https://drive.google.com/drive/folders/1UKklGJ5DJ8PYgjz-kbI08-GOJehhMXZ3?usp=sharing"
+    subjects_list:
+      - name: "Data Structures and Algorithms"
+        url: "/semesters/sem3/#data-structures"
+        drive_url: "https://drive.google.com/drive/folders/1XDc8qnz3JtLLePtdybcmps36_H7epFxY?usp=sharing"
+        icon: "🔗"
+      - name: "Digital Design and Computer Organisation"
+        url: "/semesters/sem3/#digital-electronics"
+        drive_url: "https://drive.google.com/drive/folders/1GqbkPqxRXtr_AOPB-n7nZqDMu0_hm4AK?usp=sharing"
+        icon: "🔗"
+      - name: "Mathematics for computer science Engineers"
+        url: "/semesters/sem3/#discrete-mathematics"
+        drive_url: "https://drive.google.com/drive/folders/1McTmyvkTRvOiZEetOxMmTL2iO2mLhkKh?usp=sharing"
+        icon: "🔗"
+      - name: "Automata Formal Logic and Language"
+        url: "/semesters/sem3/#oop-java"
+        drive_url: "https://drive.google.com/drive/folders/1rsIRcPouEgo1IsoNezU239ZACxhPuMv5?usp=sharing"
+        icon: "🔗"
+      - name: "Web Technologies"
+        url: "/semesters/sem3/#engineering-math"
+        drive_url: "https://drive.google.com/drive/folders/1uMEnFK4A6iHfhvUM9N-xZQxdHEtzyGDS?usp=sharing"
+        icon: "🔗"
+
+  - name: "Semester 4"
+    year: "2026"
+    subjects: 4
+    icon: "📚"
+    color: "#51cf66"
+    subjects_list:
+      - name: "Linear Algebra"
+        url: "/semesters/sem4/#Linear Algebra"
+        drive_url: "https://drive.google.com/your-link"
+        icon: "🔗"
+      - name: "Computer Networks"
+        url: "/semesters/sem4/#computer-networks"
+        drive_url: "https://drive.google.com/your-link"
+        icon: "🔗"
+      - name: "Operating Systems"
+        url: "/semesters/sem4/#Operating Systems"
+        drive_url: "https://drive.google.com/your-link"
+        icon: "🔗"
+      - name: "Logic and Design of Algorithm"
+        url: "/semesters/sem4/#Logic and Design of Algorithm"
+        drive_url: "https://drive.google.com/your-link"
+        icon: "🔗"
+
+ 
