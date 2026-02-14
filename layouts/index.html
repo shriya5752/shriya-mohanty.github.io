@@ -962,7 +962,7 @@ document.addEventListener("DOMContentLoaded", () => {
   
   let scrambleInterval;
   let scrambleTime = 0;
-  const scrambleDuration = 2000;
+  const scrambleDuration = 1000;
   
   nameElement.classList.add('typing');
   
@@ -975,7 +975,7 @@ document.addEventListener("DOMContentLoaded", () => {
       clearInterval(scrambleInterval);
       typewriterEffect();
     }
-  }, 400);
+  }, 200);
   
   function typewriterEffect() {
     nameElement.textContent = '';
@@ -989,7 +989,7 @@ document.addEventListener("DOMContentLoaded", () => {
         clearInterval(typeInterval);
         setTimeout(() => {
           nameElement.classList.remove('typing');
-        }, 1500);
+        }, 1000);
       }
     }, 150);
   }

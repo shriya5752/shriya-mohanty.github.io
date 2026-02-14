@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes on shriya.dev</title>
-    <link>http://localhost:56082/notes/</link>
+    <link>http://localhost:1313/notes/</link>
     <description>Recent content in Notes on shriya.dev</description>
-    <generator>Hugo -- 0.155.1</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:56082/notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>React Complete Guide</title>
-      <link>http://localhost:56082/notes/react/</link>
-      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56082/notes/react/</guid>
-      <description>Complete React.js learning notes with examples</description>
+      <title>All Notes by Semester</title>
+      <link>http://localhost:1313/notes/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/notes/</guid>
+      <description>&lt;p&gt;Browse my complete collection of study notes, organized by semester. Each subject includes comprehensive notes with examples, explanations, and practice problems.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
