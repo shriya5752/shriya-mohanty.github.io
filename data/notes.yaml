@@ -3,7 +3,7 @@ semesters:
     slug: sem2
     year: "2025"
     subjects: 3
-    icon: "📁"
+    icon: "⭐ "
     color: "#0070f3"
     drive_link: "https://drive.google.com/drive/folders/1UKklGJ5DJ8PYgjz-kbI08-GOJehhMXZ3?usp=sharing"
     tips: |
@@ -89,7 +89,7 @@ semesters:
     slug: sem3
     year: "2025"
     subjects: 5
-    icon: "📁"
+    icon: "⭐ "
     color: "#0070f3"
     drive_link: "https://drive.google.com/drive/folders/1UKklGJ5DJ8PYgjz-kbI08-GOJehhMXZ3?usp=sharing"
     tips: |
